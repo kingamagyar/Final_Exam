@@ -1,7 +1,6 @@
 #include "numberSum.h"
  
-//1. Create a function that takes a matrix (list of lists) of numbers and sums all the numbers.
- 
+//Exercise no. 1: Create a function that takes a matrix (list of lists) of numbers and sums all the numbers.
 
 int main(int argc, const char * argv[]) {
   std::vector<std::vector<int> > matrix_of_numbers = {{1, 2, 8}, {3, 4, 5}};
